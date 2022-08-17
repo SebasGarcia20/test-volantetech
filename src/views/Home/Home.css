@@ -1,0 +1,24 @@
+
+.contenedor-home {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+}
+
+.contenedor-doble {
+    width: 100%;
+    align-items: center;
+}
+
+.hr {
+    width: 90%;
+    border: 2px solid var(--button-color);
+}
+
+.div-field {
+    width: 25%;
+}
